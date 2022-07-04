@@ -1,0 +1,3 @@
+9.9.9.9 amazon.com
+13.13.13.13 netflix.com
+12.12.12.12 facebook.com
